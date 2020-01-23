@@ -8,7 +8,7 @@ CS241 Data Structures Final Project - Program that builds and manipulates phylog
 4. Once the program has finished analyzing the data you can view the tree
 5. Download FigTree from http://tree.bio.ed.ac.uk/software/figtree/
 6. Once installed, go to directory of FigTree and open a Git Bash window to this location
-7. Make sure to copy the .tree files from your program output directory
+7. Make sure to copy the .tree files from your program output directory and place them in the FigTree installation folder
 8. Run 'bash bin/figtree name_of_tree_file.tree'
 
 ```
