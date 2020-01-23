@@ -12,7 +12,9 @@ CS241 Data Structures Final Project - Program that builds and manipulates phylog
 *
 * where the argument is
 * 
-*   fastaListFilename      a plaintext file with one line per FASTA alignment file(two have been provided 'species.list' and 'plants.list
+*   fastaListFilename      a plaintext file with one line per FASTA alignment file
+                            (two have been provided 'species.list' and 'plants.list)
+*                            
 *   outputDir              a directory where the trees and statistics will be written
 *
 *
